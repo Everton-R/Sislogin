@@ -13,7 +13,7 @@
 	<div class="container">
 		<div class="row" style="margin-top: 100px;">
 			<div class="col-lg-8 offset-lg-2 jumbotron">
-				<form action="enviar.php" method="POST">
+				<!--<form action="enviar.php" method="POST">-->
 					<div class="form-group">
 						<label>Nome</label>
 						<input type="text" name="nome" class="form-control">
