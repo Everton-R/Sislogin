@@ -17,5 +17,13 @@
 </head>
 <body>
 	<h2>teste</h2>
+	
+	<?php
+		echo "Olá mundo";
+	?>
+	
+	<?php
+		echo "olá mundo";
+	?>
 </body>
 </html>
